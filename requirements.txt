@@ -1,0 +1,7 @@
+discord
+tls_client
+typing_extensions
+requests
+colorama 
+pygame
+
